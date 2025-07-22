@@ -89,9 +89,6 @@ This analysis offers data-driven insights for students, educators, and HR teams 
 ---
 
 ## 🔗 Connect with Me
-
-**Gungun Anant Chavan**
-📧 [chavangungun657@gmail.com](mailto:chavangungun657@gmail.com)
-🔗 [GitHub](https://github.com/datawithgungun) | [LinkedIn](https://www.linkedin.com/in/gungun-chavan-822440259/) | 📱 +91 7499069198
-
----
+Name: Monika Doble
+Phone: 9890884532
+Email: monikadoble7@gmail.com
